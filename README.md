@@ -12,9 +12,9 @@ Activate pipenv:
     ```
  <br />
  run
-     '''
+     ```
      python trust_evaluation.py
-     '''
+     ```
 <br />
 provide any integer no for the succesfull and unsuccessful interactions
 
