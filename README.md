@@ -5,13 +5,16 @@ Setup pipenv in project root:
     ```
     pipenv install
     ```
+<br />
 Activate pipenv:
     ```
     pipenv shell
     ```
+ <br />
  run
      '''
      python trust_evaluation.py
      '''
- provide any integer no for the succesfull and unsuccessful interactions
+<br />
+provide any integer no for the succesfull and unsuccessful interactions
 
