@@ -2,7 +2,7 @@
 # Calculates trust between agents
 # Usage
 Setup pipenv in project root:
-    ```shell
+    ```
     pipenv install
     ```
 
